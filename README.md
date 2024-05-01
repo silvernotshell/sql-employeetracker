@@ -1,8 +1,8 @@
 # sql-employeetracker
-<br>
-**Description:**<br> A command-line application that can manage a company's employee database and utilizes Node.js, Inquirer, and MySQL.
-<br>
-**User Story:**<br>AS A business owner, I WANT to be able to view and manage the departments, roles, and employees in my company, SO THAT I can organize and plan my business
+
+**Description:** A command-line application that can manage a company's employee database and utilizes Node.js, Inquirer, and MySQL.
+
+**User Story:** AS A business owner, I WANT to be able to view and manage the departments, roles, and employees in my company, SO THAT I can organize and plan my business
 
 **Acceptance Criteria:**<br>
 GIVEN a command-line application that accepts user input<br>
