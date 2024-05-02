@@ -24,6 +24,10 @@ When I choose to add an employee, then I am prompted to enter the employee’s f
 When I choose to update an employee role, then I am prompted to select an employee to update and their new role and this information is updated in the database<br>
 
 **Usage Instructions:**
+1. Download the source code
+2. Open in any code editor (VS CODE used in demo)
+3. Open the terminal from the root folder
+4. Type "node index.js" into the command line
+5. Follow the prompts on screen to test and use the application
 
-
-**Video Walkthrough:**
+**Video Walkthrough:** https://youtu.be/75dX80ulsb4
